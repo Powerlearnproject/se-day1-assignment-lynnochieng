@@ -9,12 +9,12 @@ Software Engineering is the application of Engineering principles, tools and met
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Early Programming - 
-Object-Oriented Programming and Design - 
-Modern Software Engineering - 
+Early Programming (1940s -1950s) - Creation of first computers which required programmes to be written in binary or assembly language.
+Object-Oriented Programming and Design (1970s - 1980s) - The emergence of using objects and classes to model real world entities. 
+Modern Software Engineering (2020s - Beyond) - Emerging of AI and Machine Learning are used to assist in coding, testing and project management.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Planning - 
+Planning - Understanding what the user wants in the software 
 Analysis - 
 Designing - 
 Developing - 
