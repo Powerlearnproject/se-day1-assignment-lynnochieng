@@ -10,8 +10,11 @@ It ensures that software is of high quality, reliable and secure. This helps red
 It enable the creation of systems that can scale efficiently as user demand grows.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Early Programming (1940s - 1950s) - The creation of first electric computer where programmers wrote codes in binary or assembly language. 
+
 Object-Oriented Programming and Design (1970s-1980s) - Where objects and classes were first used to model real world entities
+
 Modern Software Engineering (2020s and Beyond)- The emergence of AI and Machine Learning which is being used to assist in coding.
 
 
