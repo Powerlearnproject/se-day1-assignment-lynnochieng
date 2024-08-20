@@ -104,4 +104,4 @@ It helps avoid giving out vague questions which in turn can give confusing answe
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt "Describe my country Kenya"
 Improved Prompt " Describe my country Kenya and where it is located in Africa, also highlight the main Economic activities and some of the tribes that are found there".
-The improved version will give the AI model the precise topic that it will need to produce.
+The improved version will give the AI model the precise topic that it will need to produce
